@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @marcelo-cm
-- 👀 I’m interested in fullstack development, product, AI, and learning about anything else!
-- 🌱 I’m currently learning the fullll staackkkkk.
-- 💞️ I’m looking to collaborate on any cool projects!
+- 👋 Hi, I’m @marcelo-cm, I run Canada's largest undergraduate organization on AI – <a href="qmind.ca">QMIND</a> – and spent my last summer creating a product to help combat mental health and building AI-based Saas products in the medical field. I'm self-taught, as most people are, thanks to Youtube, ChatGPT & my friends!
+- 👀 I’m interested in fullstack development, product, AI, Star Wars & Superheroes!
+- 💞️ I’m always looking to collaborate on any cool projects!
 - 📫 How to reach me:
 -   e: <em> marcechaman@gmail.com </em>
+-   w: <em> https://www.marcelochaman.ca/ </em>
 -   l: <em> https://www.linkedin.com/in/marc-cham/ </em>
 
 <!---
