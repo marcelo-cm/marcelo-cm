@@ -1,6 +1,6 @@
 # Marcelo Chaman Mallqui – Software Engineer, Product Designer & Founder
 
-> Leading Canada's largest undergraduate organization on AI – [QMIND](https://www.qmind.ca/) – and organizing Canada's largest conference on AI – [CUCAI](https://cucai.ca/)!
+> Leading Canada's largest undergraduate organization on AI, [QMIND](https://www.qmind.ca/), and organizing Canada's largest conference on AI, [CUCAI](https://cucai.ca/)!
 
 ## About Me
 - 📚 I'm currently a second-year Commerce student at Queen’s University in Kingston, ON.
