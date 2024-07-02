@@ -1,9 +1,5 @@
 # Marcelo Chaman Mallqui – Product Engineer & Founder
-
-## About Me
-- 📚 Commerce student at Queen’s University in Kingston, ON.
-- 🚀 Self-taught programmer and designer.
-- 💻 Passionate about technology, community, and art.
+> Self-taught programmer and designer, studying Commerce at Queen’s University in Kingston, ON.
 
 ## Connect
 - 👤 LinkedIn: [Marcelo Chaman Mallqui](https://www.linkedin.com/in/marc-cham/)
