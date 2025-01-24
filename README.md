@@ -1,7 +1,7 @@
 # Marcelo Chaman Mallqui – Product Engineer & Founder
 > Self-taught programmer and designer, studying Commerce at Queen’s University in Kingston, ON.
 
-Currently studying abroad in Madrid, Spain — I swear I'm still programming, just not on GitHub :wink:
+📍 San Francisco
 
 ## Connect
 - 👤 LinkedIn: [Marcelo Chaman Mallqui](https://www.linkedin.com/in/marc-cham/)
